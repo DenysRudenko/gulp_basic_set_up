@@ -1,4 +1,4 @@
-# Project Title
+# Basic Gulp Setup for Web Development
 
 This project includes a basic setup for using Gulp to automate tasks in web development. Gulp is a powerful tool that helps with tasks like starting a development server, compiling Sass to CSS, adding vendor prefixes, minifying CSS, and live-reloading the browser when files change.
 
