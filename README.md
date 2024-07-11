@@ -315,3 +315,17 @@ yourproject/
 └── package.json
 
 ```````
+
+## Docs
+
+-  [Gulp-sass](https://www.npmjs.com/package/gulp-sass)
+
+-  [Browser-sync](https://browsersync.io/)
+
+-  [Browser-sync docs](https://www.npmjs.com/package/browser-sync)
+
+-  [Gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer)
+
+-  [Gulp-clean-css](https://www.npmjs.com/package/gulp-clean-css)
+
+-  [Gulp-rename](https://www.npmjs.com/package/gulp-rename)
